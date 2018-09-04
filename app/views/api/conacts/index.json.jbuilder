@@ -1,0 +1,1 @@
+json.array! @contacts, partial:'product', as: :product
